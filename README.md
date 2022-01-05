@@ -1,2 +1,2 @@
-# Gestion-des-activit-s-scientifiques
+# Gestion-des-activites-scientifiques
 a JEE project
